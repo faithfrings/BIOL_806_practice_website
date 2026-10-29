@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "To graduate\nClimb a bunch of mountains\nThanks for checking out my web site!"
+    "text": "To graduate (if Easton lets me)\nClimb a bunch of mountains (if it isn’t too cold)\n\n\n\n\n\nPhD (one day)\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
     "href": "index.html#goals",
     "title": "About Me",
     "section": "",
-    "text": "To graduate\nClimb a bunch of mountains"
+    "text": "To graduate (if Easton lets me)\nClimb a bunch of mountains (if it isn’t too cold)"
   },
   {
     "objectID": "projects.html#project-2",
@@ -26,5 +26,12 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "PhD (one day)"
   }
 ]
