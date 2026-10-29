@@ -4,9 +4,12 @@ about:
   id: me
   template: broadside
   image: img/FaithFrings_headshot.jpg
+  image-shape: rectangle
 ---
 
 :::{#me}
+
+
 
 ## Goals
 
